@@ -1,0 +1,11 @@
+/.idea/compiler.xml
+
+/src/main/resources/database.sql
+/target/classes/database.sql
+/.idea/jarRepositories.xml
+/.idea/jpa-buddy.xml
+/.idea/misc.xml
+/.idea/sqldialects.xml
+/.idea/uiDesigner.xml
+/.idea/vcs.xml
+/.idea/dataSources.xml
